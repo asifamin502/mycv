@@ -1,0 +1,392 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+::selection{
+    color: orangered;
+    background-color: black;
+}
+body{
+    font-family: 'ABeeZee';
+    
+    
+    
+}
+.fullcv{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(221, 235, 203);
+    height: 750px ;
+    
+}
+
+
+.myname{
+
+    position: relative;
+    left: 400px;
+    bottom: 680px;
+
+
+}
+
+.left{
+
+    background-color: rgba(19, 19, 37, 0.819);
+    max-width: 360px;
+    height: 750px;
+    
+    
+
+}
+
+.pi1{
+
+    height: 170px;
+    max-width: 150px;
+    border-radius: 80%;
+    padding: 20px;
+    position: relative;
+    bottom: 800px;
+
+
+}
+
+.aboutme{
+    position: relative;
+    top: 215px;
+    left: 20px;
+    
+    max-width: 300px;
+    color: beige;
+    display: flex;
+
+}
+
+.aboutme:hover{
+    color: darkseagreen;
+    font-size: 18px;
+}
+
+.aboutme1{
+    position: relative;
+bottom: 780px;
+left: 20px;
+max-width: 300px;
+color: beige;
+padding-top: 9px;
+   
+}
+
+.aboutme1:hover{
+    color: darkseagreen;
+    
+}
+
+.contract{
+    position: relative;
+   bottom: 790px;
+    left: 20px;
+    max-width: 300px;
+    color: beige;
+    display: flex;
+}
+
+.contract:hover{
+    color: darkseagreen;
+    font-size: 18px;
+}
+
+.phone{
+    position: relative;
+    bottom: 787px;
+    left: 20px;
+    max-width: 300px;
+    
+    display: flex;
+}
+
+
+
+
+
+
+
+.mail{
+    position: relative;
+    bottom: 785px;
+    left: 20px;
+    max-width: 300px;
+    
+    display: flex;
+}
+
+
+
+
+.location{
+    position: relative;
+    bottom: 783px;
+    left: 20px;
+    max-width: 300px;
+    
+    display: flex;
+}
+
+
+
+.skills{
+    position: relative;
+    bottom: 790px;
+    left: 20px;
+    max-width: 300px;
+    color: beige;
+    display: flex;
+}
+
+.skills:hover{
+    color: darkseagreen;
+    font-size: 18px;
+}
+
+.skills1:hover{
+    color: darkseagreen;
+    
+}
+
+
+
+.skills1{
+    padding-left: 20px;
+    padding-top: 5px;
+    position: relative;
+    bottom: 790px;
+    left: 20px;
+    max-width: 300px;
+    color: beige;
+    font-size: 17px;
+    
+
+
+}
+
+.skills1 ul li{
+    list-style-type: circle;
+    
+}
+
+
+.language{
+    position: relative;
+    bottom: 800px;
+    left: 15px;
+    max-width: 300px;
+    color: beige;
+    display: flex;
+}
+
+.language1{
+
+    padding-left: 25px;
+    padding-top: 5px;
+    position: relative;
+    bottom: 800px;
+    left: 20px;
+    max-width: 300px;
+    color: beige;
+    font-size: 17px;
+}
+
+.language1 ul li{
+    list-style-type: circle;
+    
+}
+
+.language:hover{
+    color: darkseagreen;
+    font-size: 18px;
+}
+
+.language1:hover{
+    color: darkseagreen;
+    
+}
+
+
+.education{
+    position: relative;
+    bottom: 1300px;
+    left: 420px;
+    display: flex;
+    
+
+}
+
+.education:hover{
+    color: tomato;
+    font-size: 18px;
+}
+
+.vr{
+    width: 3px;
+    height: 80px;
+    
+    background-color: rgb(6, 59, 70);
+    position: relative;
+    bottom: 1280px;
+    left: 450px;
+    display: flex;
+
+
+}
+
+
+.sinfo{
+    position: relative;
+    bottom: 1358px;
+    left: 480px;
+   
+   
+}
+
+.sinfo ul{
+    list-style-type: circle;
+}
+
+.sinfo:hover{
+    color: tomato;
+    
+}
+
+.vr1{
+    width: 3px;
+    height: 80px;
+    
+    background-color: rgb(6, 59, 70);
+    position: relative;
+    bottom: 1330px;
+    left: 450px;
+    display: flex;
+
+
+}
+
+
+.hinfo{
+
+    position: relative;
+    bottom: 1410px;
+    left: 480px;
+
+}
+
+.hinfo ul{
+
+    list-style-type: circle;
+}
+
+.hinfo:hover{
+    color: tomato;
+    
+}
+
+
+
+.vr2{
+    width: 3px;
+    height: 80px;
+    
+    background-color: rgb(6, 59, 70);
+    position: relative;
+    bottom: 1380px;
+    left: 450px;
+    display: flex;
+
+
+}
+
+.vinfo{
+    position: relative;
+    bottom: 1460px;
+    left: 480px;
+
+
+}
+
+.vinfo ul{
+
+    list-style-type: circle;
+}
+
+.vinfo:hover{
+    color: tomato;
+    
+}
+
+.project{
+
+ position: relative;
+    bottom: 1430px;
+    left: 420px;
+   
+    color: rgb(0, 0, 0);
+    
+    display: flex;
+
+
+}
+
+.project:hover{
+    color: tomato;
+    font-size: 18px;
+}
+
+.project1{
+
+    max-width: 350px;
+    position: relative;
+    bottom: 1420px;
+    left: 450px;
+
+
+
+}
+
+.project1:hover{
+    color: tomato;
+    
+}
+
+
+.last{
+    max-width: 1000px;
+    height: 70px;
+    color: azure;
+    background-color: black;
+    margin: 0 auto;
+    position: relative;
+    bottom: 1409px;
+ text-align: center;
+ 
+    
+}
+
+.last a{
+    color: greenyellow;
+    text-decoration: none;
+    margin: 15px;
+    position: relative;
+    top: 10px;
+    
+    
+}
+
+.last1{
+
+    position: relative;
+ top: 15px;
+
+}
+
+
